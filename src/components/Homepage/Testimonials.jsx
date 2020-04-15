@@ -11,7 +11,7 @@ const Testimonials = () => {
             <div className="section-title text-center pb-40">
               <div className="line m-auto"></div>
               <h3 className="title">
-                Users sharing<span> their experience</span>
+                Users sharing <span> their experience</span>
               </h3>
             </div>
           </Col>

@@ -63,10 +63,8 @@ const Content = () => {
                   </h3>
                 </div>
                 <p className="text">
-                   With Agile development becoming the standard in most organizations, the ways in which software development, automation and testing have changed dramatically.
-					Pre-Agile, most of the time spent on automation was done against a graphical user interface (GUI). This is the piece that tools like UFT/QTP handle.In software application (app) development, API is the middle layer between the presentation (UI) and the database layer. APIs enable communication and data exchange from  software system to another.
-					API testing is a software testing practice that tests the APIs directly — from their functionality, reliability, performance, to security. Part of integration testing, API testing effectively validates the logic of the build architecture within a short amount of time. We do this for you.
-					PI automated testing is critical for product quality and CI/CD processes. Unlike GUI tests, API tests can cope with short release cycles and frequent changes — without breaking the test outputs. 
+				Our relationships in various jurisdictions across a range of service providers and policy makers, allows us to scale the needs of clients in terms of the corridors the client is entering and their technology need within that corridor.
+				Our software engineers specialise in implementing 3rd party API software straight into a client’s business software. This provides streamlined communication between the software and any 3rd party.                   
                 </p>
               </div>
             </Col>

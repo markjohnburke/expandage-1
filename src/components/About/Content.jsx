@@ -36,16 +36,13 @@ const Content = () => {
                   <div className="line"></div>
                   <h3 className="title">BESPOKE API INTEGRATION</h3>
                 </div>
-                <p className="text">
-                  Our software engineers specialise in implementing 3rd party
-                  API software into a client’s business software program to
-                  provide a better communication between the software and a 3rd
-                  party
+                <p className="text">				
+				Essentially an API can share valuable data and enhance the functionalities of an existing system with integration of new features. With Agile development becoming the standard in most organizations, the ways in which software development, automation and testing is approached, have changed dramatically.
+				Pre-Agile, most of the time spent on automation was done against a graphical user interface. This is the piece that tools like UFT/QTP handle. In software application (app) development, API is the middle layer between the presentation (UI) and the database layer. APIs enable communication and data exchange from  software system to another.
                 </p>
-                <p className="text">
-                  Essentially an API can share valuable data and enhance the
-                  functionalities of an existing system with integration of new
-                  features.
+                <p className="text">				
+				API testing is a software testing practice that tests the APIs directly — from their functionality, reliability, performance, to security. Part of integration testing, API testing effectively validates the logic of the build architecture within a short amount of time. We do this for you.
+				PI automated testing is critical for product quality and CI/CD processes. Unlike GUI tests, API tests can cope with short release cycles and frequent changes — without breaking the test outputs.                   
                 </p>
                 <Link to="/contact" className="main-btn">
                   Talk to Us Today
