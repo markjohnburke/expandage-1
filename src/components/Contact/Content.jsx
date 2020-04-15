@@ -39,7 +39,8 @@ const Content = () => {
                   <span>info@expandage.com</span>
                 </li>
                 <li>
-                  <p>Summerlin, NV 89145</p>
+                  <p>Suite 1, La Mimosa <br />
+					2 Thompsons Lane, CB5 8AQ, Cambridge, UK</p>
                   <span></span>
                 </li>
               </ul>
@@ -52,11 +53,8 @@ const Content = () => {
                 <li>
                   <p>
                     Interested in joining one of the fastest growing
-                    technology-driven financial institutions?
+                    technology-driven automation institutions?
                   </p>
-                </li>
-                <li>
-                  <span>702.840.4000</span>
                 </li>
                 <li>
                   <p>email us for any help</p>

@@ -8,33 +8,33 @@ import SericeIcon2 from "../../images/service-icon-2.png"
 const keyFeatures = [
   {
     id: 1,
-    title: "Global Scale",
+    title: "EU Built with Global Focus",
     desc:
-      "We can run checks on US & International customers, and manage country- specific rules, laws, and regulations to efficiently onboard and maintain multi-jurisdictional clients for you.",
+      "We can run checks on all customers, and manage country- specific rules, laws, and regulations to efficiently onboard and maintain multi-jurisdictional clients for you.",
   },
   {
     id: 2,
-    title: "Automated Compliance",
+    title: "Automated Onboarding",
     desc:
-      "With our easy-to-integrate APIs, our built-in compliance service allows you to automate your AML and KYC checks in a snap.",
+      "With our easy-to-integrated APIs, our services allows you to automate your AML and KYC checks in a snap.",
   },
   {
     id: 3,
-    title: "Compliance-As-A-Service",
+    title: "Edge Case Analysis",
     desc:
-      "Looking for something more tailored to your business? We are here to help.",
+      "Our service allows your endpoints to receive a response back while validating results are working as one expects them",
   },
   {
     id: 4,
-    title: "Reduce Your Risk of Fraud",
+    title: "Conduct Headless API Testing",
     desc:
-      "We help ensure that your customers are who they say they are and provide source of funds checks to extend the reach of your due diligence, and lower your overall risk.",
+      "Most headless testing consists of bypassing the GUI and sending a request directly to an application’s backend ",
   },
   {
     id: 5,
     title: "Improve Customer Experience",
     desc:
-      "Run your obligatory checks with the industry's premium compliance service. Designed with the user in mind, onboarding is an easy and painless process.",
+      "Run your obligatory checks with the industry's premium service. Designed by users and for users, onboarding is as easy as it is smooth",
   },
 ]
 
@@ -58,18 +58,15 @@ const Content = () => {
                 <div className="section-title">
                   <div className="line"></div>
                   <h3 className="title">
-                    A simple onboarding process? Now{" "}
-                    <span style={{ color: "#fe8464" }}>that's</span> refreshing.
+                    A simple automation process? Now{" "}
+                    <span style={{ color: "#fe8464" }}>your</span> focus can go where it should.
                   </h3>
                 </div>
                 <p className="text">
-                  Automate your onboarding with our BSA-compliant service,
-                  available in conjunction with our custody, escrow, exchange,
-                  stablecoin, and tokenized assets APIs. Our AML (Anti-Money
-                  Laundering), KYC (Know-Your-Customer), and bad actor checks
-                  bring together hundreds of data sources to meet your
-                  regulatory and risk management obligations while removing the
-                  need for physical storage
+                   With Agile development becoming the standard in most organizations, the ways in which software development, automation and testing have changed dramatically.
+					Pre-Agile, most of the time spent on automation was done against a graphical user interface (GUI). This is the piece that tools like UFT/QTP handle.In software application (app) development, API is the middle layer between the presentation (UI) and the database layer. APIs enable communication and data exchange from  software system to another.
+					API testing is a software testing practice that tests the APIs directly — from their functionality, reliability, performance, to security. Part of integration testing, API testing effectively validates the logic of the build architecture within a short amount of time. We do this for you.
+					PI automated testing is critical for product quality and CI/CD processes. Unlike GUI tests, API tests can cope with short release cycles and frequent changes — without breaking the test outputs. 
                 </p>
               </div>
             </Col>
@@ -96,12 +93,9 @@ const Content = () => {
                   <img src={SericeIcon1} alt="icon" />
                 </div>
                 <div className="service-box-right">
-                  <h2>Regulation Ready</h2>
+                  <h2>Client Ready</h2>
                   <p>
-                    Meet the needs for offering stock, debt and digital assets
-                    conducted pursuant to US Securities regulations, including
-                    initial public offerings (Forms S-1, S-11, etc.) and private
-                    offerings (Regulations A, D, CF and S).
+                    Meet the needs for offering your clients (if B2C) and their clients (if B2B) a fully compliant and automated onboarding process and maintenance process.
                   </p>
                 </div>
               </div>
@@ -118,8 +112,7 @@ const Content = () => {
                 <div className="service-box-right">
                   <h2>Technology-Driven</h2>
                   <p>
-                    We provide a suite of services delivered with technology for
-                    back office support and compliance.
+                    We provide a suite of services delivered with technology for your scaling needs.
                   </p>
                 </div>
               </div>

@@ -21,9 +21,8 @@ const About = () => {
                   <h3 className="title">Technology Integration</h3>
                 </div>
                 <p className="text">
-                  Our experience in delivering manufacturing solutions includes
-                  integration of many types of technology and their developments
-                  over time.
+                  Our experience in delivering industry ready solutions includes
+                  integration of many types of technologies, platforms and APIs, as well as their ongoing maintenance over time. We build adaptable and resilient systems so our clients can focus on building their business.
                 </p>
 
                 <Link to="/" className="main-btn">

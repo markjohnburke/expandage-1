@@ -20,7 +20,7 @@ const Services = () => {
                 Expandage EU{" "}
                 <span>
                   offers any business dealing with technology integration and
-                  automation with 3 major competitive advantages
+                  automation a full service solution, with 3 focus areas of expertise
                 </span>
               </h3>
             </div>
@@ -43,8 +43,8 @@ const Services = () => {
                   <Link to="/">Automated Systems Communications</Link>
                 </h4>
                 <p className="text">
-                  Automate your onboarding with our BSA-compliant service
-                  available.
+                  Automate your onboarding and client interactions with our GDPR-compliant service
+                  dashboard based platforms.
                 </p>
               </div>
             </div>
@@ -65,8 +65,8 @@ const Services = () => {
                   <Link to="/">Sign ups {"&"} KYC</Link>
                 </h4>
                 <p className="text">
-                  We are the industry’s leading provider of escrow services for
-                  technology-driven securities offerings.
+                  We are an industry’s leading provider of KYC and AML automation for
+                  technology-driven onboarding that prioritises your clients.
                 </p>
               </div>
             </div>
@@ -84,11 +84,10 @@ const Services = () => {
               </div>
               <div className="services-content mt-30">
                 <h4 className="services-title">
-                  <Link to="/">Settlement {"&"} Exchanges</Link>
+                  <Link to="/">Settlement {"&"} Automation</Link>
                 </h4>
                 <p className="text">
-                  Entering any country / corridor with very low operating
-                  capital (no pre-funding)
+                   We make it simple for you to conclude transactions with your clients across a range of rails and interfaces
                 </p>
               </div>
             </div>
@@ -97,11 +96,7 @@ const Services = () => {
         <Row className="justify-content-center">
           <Col lg={10}>
             <p className="services-expan text-center mt-60 mb-60">
-              We serve financial institutions and payments companies including
-              but not limited to licensed money transfer operators, banks,
-              neobanks, prepaid card issuers, telcos with e-money license and
-              mass payout companies serving to clients such as Airbnb, Booking,
-              Upwork, Uber, etc.
+              We've built services and solutions for both established financial institutions and emerging startups. We automate so you can focus, with clients ranging from UK, EU, US, UAE to SA, Hong Kong and a few places in between. 
             </p>
           </Col>
         </Row>

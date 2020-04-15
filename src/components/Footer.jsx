@@ -40,9 +40,7 @@ const Footer = () => {
                   <img src={logoLight} alt="Logo Footer" />
                 </Link>
                 <p className="text">
-                  Lorem ipsum dolor sit amet consetetur sadipscing elitr,
-                  sederfs diam nonumy eirmod tempor invidunt ut labore et dolore
-                  magna aliquyam.
+                  Building technology so you can build your business.
                 </p>
               </div>
             </Col>
@@ -101,11 +99,13 @@ const Footer = () => {
                   <h4 className="title">Contact Us</h4>
                 </div>
                 <ul className="contact">
-                  <li>+809272561823</li>
-                  <li>info@gmail.com</li>
+                  <li>sales@expandage.com</li>
                   <li>
-                    123 Stree New York City , United <br /> States Of America
-                    750.
+					UK Office: Suite 1, La Mimosa <br />
+					2 Thompsons Lane, CB5 8AQ, Cambridge, UK
+					</li>
+                  <li>
+                    EU Office: Tornimäe 5-2nd Floor, 10145 Tallinn, Estonia
                   </li>
                 </ul>
               </div>
