@@ -56,10 +56,10 @@ const Footer = () => {
                   </div>
                   <ul className="link">
                     <li>
-                      <Link to="/">Road Map</Link>
+                      <Link to="/contact/">Road Map</Link>
                     </li>
                     <li>
-                      <Link to="/">Terms of Services</Link>
+                      <Link to="/contact/">Terms of Services</Link>
                     </li>
                   </ul>
                 </div>
@@ -77,13 +77,13 @@ const Footer = () => {
                       <Link to="/">Home</Link>
                     </li>
                     <li>
-                      <Link to="/">About</Link>
+                      <Link to="/about/">About</Link>
                     </li>
                     <li>
-                      <Link to="/">Integrations</Link>
+                      <Link to="/integrations/">Integrations</Link>
                     </li>
                     <li>
-                      <Link to="/">Contact Us</Link>
+                      <Link to="/contact/">Contact Us</Link>
                     </li>
                   </ul>
                 </div>
