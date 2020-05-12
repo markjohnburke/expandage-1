@@ -37,7 +37,8 @@ const Content = () => {
                   <h3 className="title">BESPOKE API INTEGRATION</h3>
                 </div>
                 <p className="text">				
-				Essentially an API can share valuable data and enhance the functionalities of an existing system with integration of new features. With Agile development becoming the standard in most organizations, the ways in which software development, automation and testing is approached, have changed dramatically.
+				Most of our customers are so used to manual processes, that they don't even know they need automation, or where an API can add value. 
+			However, an API can share valuable data and enhance the functionalities of an existing system with integration of new features. With Agile development becoming the standard in most organizations, the ways in which software development, automation and testing is approached, have changed dramatically.
 				Pre-Agile, most of the time spent on automation was done against a graphical user interface. This is the piece that tools like UFT/QTP handle. In software application (app) development, API is the middle layer between the presentation (UI) and the database layer. APIs enable communication and data exchange from  software system to another.
                 </p>
                 <p className="text">				
