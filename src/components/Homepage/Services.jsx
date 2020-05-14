@@ -96,7 +96,7 @@ const Services = () => {
         <Row className="justify-content-center">
           <Col lg={10}>
             <p className="services-expan text-center mt-60 mb-60">
-              We've built services and solutions for both established financial institutions and emerging startups. We automate so you can focus, with clients ranging from UK, EU, US, UAE to SA, Hong Kong and a few places in between. 
+              We've built services and solutions for both established financial institutions and emerging startups. We automate so you can focus, with clients ranging from The UK, EU, US, UAE to SA, Hong Kong and a few places in between. 
             </p>
           </Col>
         </Row>
