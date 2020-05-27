@@ -105,7 +105,7 @@ const Footer = () => {
 					2 Thompsons Lane, CB5 8AQ, Cambridge, UK
 					</li>
                   <li>
-                    EU Office: Tornimäe 5-2nd Floor, 10145 Tallinn, Estonia
+                    EU Office: Harju maakond, Kuusalu vald, Pudisoo küla, Männimäe/1, 74626
                   </li>
                 </ul>
               </div>
